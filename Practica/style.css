@@ -31,12 +31,9 @@ html {
     position: relative;
       top: 180px;
       margin: 0 auto;  
-      width: 1440px;
-      
-      
-   
-   display: grid;
-   grid-template-columns: repeat(2,1fr);
+      width: 1400px;
+      display: grid;
+      grid-template-columns: repeat(2,1fr);
   }
   .section1{
       border-radius: 10px;
